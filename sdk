@@ -1,0 +1,6 @@
+void main()
+{
+var firstName="shaik";
+var lastName="jasmine";
+print("Full name is $firstName $lastName");
+}
